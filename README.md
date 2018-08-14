@@ -51,4 +51,8 @@ Install all required packages (here via conda):
 - ```python -m ipykernel install --user --name personality-types --display-name "personality-types"``` makes the environemnt available in the jupyter notebooks
 - ```jupyter notebook``` starts jupyter notebooks 
 
+## Notes
 
+#### External packages
+
+For factor rotation we use the code from https://github.com/mvds314/factor_rotation which is in src/external/
