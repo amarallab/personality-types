@@ -30,7 +30,7 @@ We are not allowed to share the other datasets. The BBC-data is publicly availab
 
 ```preprocessing_02-questions-vs-domains``` creates a file storing association between item and trait
 
-```preprocessing_03-factor-analysis``` performs factor analysis and saves the factor scores as the positions of the 145,388 respondents in the 5-dimensional trait space.
+```preprocessing_03-factor-analysis``` performs factor analysis and saves the factor scores as the positions of the 145,388 respondents in the 5-dimensional trait space. For this to work you have to specify the path to this folder in src/analysis/factor_analysis.py (```path_project = '/DRIVE/REPOS/personality-types-shared/'```) -- to be fixed
 
 ```preprocessing_04-demographics``` parses the csv file for extracting age and gender for follow-up analysis.
 
