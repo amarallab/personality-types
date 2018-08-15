@@ -35,7 +35,15 @@ We are not allowed to share the other datasets. The BBC-data is publicly availab
 ```preprocessing_04-demographics``` parses the csv file for extracting age and gender for follow-up analysis.
 
 
+#### Plotting
 
+```plotting_factor-loadings``` plots the factor loadings
+
+```plotting_factor-scores-mrginals``` plots the 1D and 2D marginals of the factor scores
+
+```plotting_gender-age``` plots gender and age distribution of the dataset
+
+```plotting_gender-age-per-type``` plots the relative frequency of gender and age in each clusters.
 
 ## Setup
 
