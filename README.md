@@ -10,7 +10,7 @@ sdfsdf
 
 As part of the repository we provide the position of 145,388 respondents in the 5-dimensional trait space of the Five-Factor-Model obtained from factor analysis of the responses to 300 items (Neuroticism, Extraversion, Openness, Agreeableness, Conscientiousness; see the paper for more details). This is the starting point for the identification of personality-types using our clustering approach running the ```analysis_clustering*``` notebooks.
 
-This step can be reproduced by downloading the original data from Johnson which is available here: https://osf.io/tbmh5/ and saving the files in "/data" and running the ```preprocessing_*``` notebooks.
+This step can be reproduced from the original data in data.tar.gz (simply extract as data/) amd running the ```preprocessing_*``` notebooks. The data can be downloaded from here: https://osf.io/tbmh5/ 
 
 We are not allowed to share the other datasets. The BBC-data is publicly available (upon registration): http://doi.org/10.5255/UKDA-SN-7656-1 . The mypersonality data is not available anymore, see here: http://mypersonality.org/
 
