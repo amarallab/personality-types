@@ -4,7 +4,7 @@ Code for data processing and clustering in the identification of personality typ
 
 M. Gerlach, B. Farb, W. Revelle, L.A.N. Amaral, A robust data-driven approach identifies four personality types across four large datasets, Nature Human Behaviour (2018).
 
-sdfsdf
+**This repository is now archived and no changes will be made.**
 
 ## Data
 
